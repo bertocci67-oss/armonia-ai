@@ -78,16 +78,16 @@ Le scelte vengono salvate in locale con DataStore. Sono modificabili da **Profil
 > **Anteprime grafiche (mockup).** Riproducono i layout reali dell'app, ma non sono catture da un dispositivo fisico.
 
 <p align='center'>
-  <img src='https://files.catbox.moe/agdfbm.png' width='235' alt='Home di Armonia AI con il percorso suggerito'>
-  <img src='https://files.catbox.moe/oj89db.png' width='235' alt='Catalogo degli spartiti interattivi'>
-  <img src='https://files.catbox.moe/fr1pvh.png' width='235' alt='Accordatore cromatico con La4 a 440 Hz'>
+  <img src='https://files.catbox.moe/agdfbm.png' width='220' alt='Home di Armonia AI con il percorso suggerito'>
+  <img src='https://files.catbox.moe/oj89db.png' width='220' alt='Catalogo degli spartiti interattivi'>
+  <img src='https://files.catbox.moe/fr1pvh.png' width='220' alt='Accordatore cromatico con La4 a 440 Hz'>
 </p>
 
 ## Installare l'APK
 
 L'APK di debug (`armonia-ai-debug.apk`, circa 18 MB) è scaricabile da **[questo link](https://files.catbox.moe/fvezxs.apk)**. Non è pubblicato sul Play Store.
 
-![Guida illustrata: scarica, apri, consenti l'installazione, avvia](https://files.catbox.moe/47kvx9.png)
+![Guida illustrata: scarica, apri, consenti l'installazione, avvia](https://files.catbox.moe/mq47eo.png)
 
 1. **Scarica** `armonia-ai-debug.apk` toccando il link dal telefono. Se il browser chiede conferma, accetta il download.
 2. **Apri** il file dalla notifica di download o dall'app File/Download.
