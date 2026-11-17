@@ -73,6 +73,35 @@ Le scelte vengono salvate in locale con DataStore. Sono modificabili da **Profil
 - Streak giornaliero, XP totale, minuti dell'ultima settimana, precisione media e per abilità.
 - Grafico settimanale e cronologia recente.
 
+## Anteprime dell'interfaccia
+
+> **Anteprime grafiche (mockup).** Riproducono i layout reali dell'app, ma non sono catture da un dispositivo fisico.
+
+<p align='center'>
+  <img src='https://files.catbox.moe/agdfbm.png' width='235' alt='Home di Armonia AI con il percorso suggerito'>
+  <img src='https://files.catbox.moe/oj89db.png' width='235' alt='Catalogo degli spartiti interattivi'>
+  <img src='https://files.catbox.moe/fr1pvh.png' width='235' alt='Accordatore cromatico con La4 a 440 Hz'>
+</p>
+
+## Installare l'APK
+
+L'APK di debug (`armonia-ai-debug.apk`, circa 18 MB) è scaricabile da **[questo link](https://files.catbox.moe/fvezxs.apk)**. Non è pubblicato sul Play Store.
+
+![Guida illustrata: scarica, apri, consenti l'installazione, avvia](https://files.catbox.moe/47kvx9.png)
+
+1. **Scarica** `armonia-ai-debug.apk` toccando il link dal telefono. Se il browser chiede conferma, accetta il download.
+2. **Apri** il file dalla notifica di download o dall'app File/Download.
+3. **Consenti** l'installazione da origini sconosciute per l'app che apre il file (di solito File o Chrome), se Android lo chiede.
+4. **Installa e apri**. Concedi il microfono solo quando usi l'accordatore o la pratica guidata.
+
+L'APK è firmato con la chiave di debug: va bene per provare l'app, non per pubblicarla sul Play Store. Se vuoi verificare che il download sia integro, l'impronta SHA-256 è:
+
+```
+c58cff85ad287f25483fdebbc0ebf1e331c06cf1809432319aff3e7b07ce1d26
+```
+
+Se il link non funziona, puoi generare l'APK dal codice seguendo la sezione [Come provare la MVP](#come-provare-la-mvp).
+
 ## Privacy by design
 
 - L'unico permesso sensibile è `RECORD_AUDIO`; **non c'è il permesso INTERNET**.
