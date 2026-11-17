@@ -93,13 +93,17 @@ Le scelte vengono salvate in locale con DataStore. Sono modificabili da **Profil
 
 ## Come provare la MVP
 
-Requisiti: **Android Studio** recente con JDK 17 e Android SDK 35.
+Requisiti: **Android Studio** recente con JDK 17 e Android SDK 35, oppure **Gradle 8.7** installato.
+
+Con Android Studio: apri il progetto e premi **Run**. Da terminale, nella cartella del progetto:
 
 ```bash
-./gradlew assembleDebug
+gradle assembleDebug
 ```
 
 L'APK di debug viene creato in `app/build/outputs/apk/debug/app-debug.apk`.
+
+> Il repository non include il binario `gradle-wrapper.jar`. Se preferisci usare `./gradlew`, generalo una volta con `gradle wrapper --gradle-version 8.7` (serve Gradle 8.7 installato); in alternativa usa direttamente `gradle`.
 
 Aprire il progetto in Android Studio e avviare su un dispositivo/emulatore con microfono (l'emulatore può usare il microfono dell'host). Concedere il permesso microfono quando richiesto. Le funzioni senza microfono (metronomo, spartiti in ascolto, lezioni) funzionano anche senza permesso.
 
