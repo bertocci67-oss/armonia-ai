@@ -85,11 +85,13 @@ Le scelte vengono salvate in locale con DataStore. Sono modificabili da **Profil
 
 ## Installare l'APK
 
-L'APK di debug (`armonia-ai-debug.apk`, circa 18 MB) è scaricabile da **[questo link](https://files.catbox.moe/fvezxs.apk)**. Non è pubblicato sul Play Store.
+L'APK di debug (circa 18 MB) è scaricabile da **[questo link](https://files.catbox.moe/fvezxs.apk)**. Non è pubblicato sul Play Store.
 
-![Guida illustrata: scarica, apri, consenti l'installazione, avvia](https://files.catbox.moe/mq47eo.png)
+Il browser può salvare il file con un nome casuale: quello che conta è l'estensione `.apk`.
 
-1. **Scarica** `armonia-ai-debug.apk` toccando il link dal telefono. Se il browser chiede conferma, accetta il download.
+![Guida illustrata: scarica, apri, consenti l'installazione, avvia](https://files.catbox.moe/8q2dy6.png)
+
+1. **Scarica** il file APK toccando il link dal telefono. Se il browser chiede conferma, accetta il download.
 2. **Apri** il file dalla notifica di download o dall'app File/Download.
 3. **Consenti** l'installazione da origini sconosciute per l'app che apre il file (di solito File o Chrome), se Android lo chiede.
 4. **Installa e apri**. Concedi il microfono solo quando usi l'accordatore o la pratica guidata.
