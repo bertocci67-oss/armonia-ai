@@ -159,7 +159,7 @@ Le attribuzioni sono riportate anche nella scheda di ogni spartito.
 
 1. **Spartiti intelligenti**: trascrizione audio→MusicXML con modello leggero on-device, quantizzazione, separazione delle voci, import MusicXML/MIDI, diteggiatura automatica.
 2. **Coach di interpretazione**: analisi di dinamica, rubato, pedale, fraseggio e intonazione con modelli audio leggeri e feedback spiegabile.
-3. **Armonia e contrappunto**: analisi armonica, esercizi di voice leading, contrappunto a due voci, correzione con regole + ML.
+3. **Armonia e contrappunto**: analisi armonica, esercizi di voce leading, contrappunto a due voci, correzione con regole + ML.
 4. **Preparazione esami e audizioni**: simulazioni cronometrate, valutazione multidimensionale, report esportabile.
 5. **Piattaforma**: sync opzionale end-to-end, modello freemium/pay-per-use, acquisti in-app, download offline degli spartiti premium.
 6. **Performance**: baseline profile, modelli NNAPI/GPU delegati per la trascrizione, test su dispositivi di fascia bassa.
